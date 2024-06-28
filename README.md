@@ -1,9 +1,24 @@
-
-
 # 開発の進め方
 
-以下のDeveloperページに従い、進める
+以下のDeveloperページに従い、進める  
 https://webostv.developer.lge.com/develop/tools/webos-studio-dev-guide
+
+開発者のワークフローも確認を  
+https://webostv.developer.lge.com/develop/getting-started/developer-workflow
+
+# webOS TV SDKについて
+
+以下のSDKリリースノートを確認  
+https://webostv.developer.lge.com/develop/tools/sdk-release-notes  
+
+# 基本的なWebアプリの種類
+
+- 基本的なwebアプリ
+- ホスト型のwebアプリ
+
+明確な違いは、ホスト型は別途Serverが必須で、サーバーからアプリケーションUI等を取得する  
+詳しくは以下を確認  
+https://webostv.developer.lge.com/develop/getting-started/web-app-types
 
 
 # LG TV webOSシミュレーターの選択
