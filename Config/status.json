@@ -1,1 +1,1 @@
-{"preReq":{"node":"20.13.1","nvm":"0.0.1","python3":"3.12.3","brew":"4.3.6"},"tv":{},"ose":{}}
+{"preReq":{"node":"20.13.1","nvm":"0.0.1","python3":"3.12.3","brew":"4.3.6"},"tv":{"tv_simulator_2":{"sdk_version":"23.0","location":"/Users/sasa/src/github.com/hirotaka42/webOS-tvapp/TV/Simulator"}},"ose":{}}
